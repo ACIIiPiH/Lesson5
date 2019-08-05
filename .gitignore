@@ -1,2 +1,3 @@
-#Ignore files beam.
 *.beam
+ebin
+
